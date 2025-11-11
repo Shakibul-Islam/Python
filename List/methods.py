@@ -38,3 +38,8 @@ print("After extending b with a:", b)
 print("Final list a:", a)
 print("Final list b:", b)
 
+print("Length of list a:", len(a))
+print("Length of list b:", len(b))
+
+print("Maximum in list a:", max(a))
+print("Minimum in list a:", min(a))
