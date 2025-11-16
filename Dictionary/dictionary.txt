@@ -17,3 +17,11 @@ Python Dictionary
     Dictionary Comprehensions
 6- Nasted Dictionary
 7- Common Use Cases
+
+roll_number - 01, 02, 03
+01 -> name, class, subject
+
+Pairs
+1 pairs -> Key:values
+
+pair = (apple: meaning)
