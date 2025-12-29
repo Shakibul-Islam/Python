@@ -14,3 +14,10 @@ print(np.exp(arr))   # Output: [2.20264658e+04 4.85165195e+08 1.06864746e+13 2.3
 print(np.sum(arr))   # Output: 150
 print(np.mean(arr))  # Output: 30.0
 print(np.std(arr))   # Output: 14.142135623730951 std = sqrt(mean((x - mean(x))**2)) std = standard deviation
+
+print(np.min(arr))  # Output: 10
+print(np.max(arr)) # Output: 50
+
+print(np.var(arr))  # Output: 200.0 Variance = mean((x - mean(x))**2)
+
+
